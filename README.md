@@ -9,7 +9,7 @@ I enjoy turning complex ideas into real, working software and I'm especially int
 ## 🔧 What I'm Working On
 - Strengthening my foundations in cloud platforms and system design
 - Building hands-on projects in security and distributed systems
-- Preparing for software engineering and cloud-focused roles in 2026
+- Positioning for software engineering and cloud-focused opportunities
 
 ---
 
