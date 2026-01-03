@@ -1,38 +1,27 @@
-# Hi, I'm Harshit 👋
+# 💫 About Me:
+Hi, I’m Harshit, a Computer Science student in Canada building cloud-ready, security-minded systems and data-driven applications.<br><br>🧱 I build: backend APIs, automation pipelines, and dashboards that are reliable, scalable, and easy to maintain  <br>☁️ Cloud focus: deploying and operating services on AWS/Azure (CI/CD, containers, monitoring basics)  <br>🔐 Security focus: secure-by-design practices (auth, input validation, least privilege, logging)  <br>📊 Data focus: Python + SQL for analytics, forecasting, and decision-ready insights  <br><br>🎯 Actively targeting: New-grad roles in **Cloud / DevOps**, **Security**, or **Data/Analytics**.
 
-I'm a Computer Science student based in Canada, focused on building practical, scalable systems at the intersection of **cloud computing**, **cybersecurity**, and **distributed systems**.
 
-I enjoy turning complex ideas into real, working software and I'm especially interested in systems that are secure, reliable, and built for real-world use.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HarshitSingh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit.singh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshitMaann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maannharshit@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshitmaann&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshitmaann&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmaann&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🔧 What I'm Working On
-- Strengthening my foundations in cloud platforms and system design
-- Building hands-on projects in security and distributed systems
-- Positioning for software engineering and cloud-focused opportunities
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harshitmaann&theme=ambient_gradient&no-frame=true&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 🛠️ Technical Interests
-- Cloud Computing (AWS / Azure concepts)
-- Cybersecurity & secure system design
-- Distributed systems and backend engineering
-- Building tools and products with real users in mind
-
----
-
-## 📌 Projects
-- **GitHub Setup** – Establishing clean workflows, documentation, and standards  
-  *(More projects coming soon)*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harshitmaann&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=harshitmaann&icon=9&color=1)](https://visitcount.itsvg.in)
 
-## 🌱 Currently Learning
-- Cloud infrastructure fundamentals
-- Secure application architecture
-- Writing clean, maintainable code
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/harshit-maann
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
