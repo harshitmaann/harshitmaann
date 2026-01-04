@@ -1,7 +1,5 @@
 <!-- Profile README: harshitmaann -->
 
-# Harshit Maann 👋
-
 ## 💫 About Me
 Hi, I’m Harshit, a Computer Science student in Canada building **cloud-ready**, **security-minded** systems and **data-driven** applications.
 
@@ -15,7 +13,7 @@ Hi, I’m Harshit, a Computer Science student in Canada building **cloud-ready**
 ---
 
 ## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshitMaann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-maann/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maannharshit@gmail.com)
 
 <!-- Optional: add resume/portfolio when ready -->
