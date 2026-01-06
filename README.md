@@ -8,7 +8,7 @@ Hi, I’m Harshit, a Computer Science student in Canada building **cloud-ready**
 - 🔐 **Security:** secure-by-design practices (**auth**, input validation, least privilege, logging)
 - 📊 **Data:** **Python + SQL** for analytics, forecasting, and decision-ready insights
 
-🎯 Actively targeting: **Applications Support Specialist** / **Production Support** / **Junior SRE / Ops** roles.
+🎯 Actively targeting: **Applications Support** / **Production Support** / **Junior SRE / Ops** roles.
 
 ---
 
