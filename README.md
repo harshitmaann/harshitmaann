@@ -27,12 +27,19 @@ Hi, I’m Harshit, a Computer Science student in Canada building **cloud-ready**
 ## ⭐ Featured Projects
 > If you have 30 seconds, check these out:
 
+- **🛠️ App Support Lab** — simulated production Application Support lab (logging + metrics + monitoring + incident runbooks)  
+  **What you’ll see:** 503 incident drills → log triage → metrics validation → recovery  
+  [![Repo](https://img.shields.io/badge/Repo-app--support--lab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitmaann/app-support-lab)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+  ![Monitoring](https://img.shields.io/badge/Monitoring-0B1320?style=flat-square)
+
 - **☕ Coffee Sales Forecast** — end-to-end time series forecasting pipeline (features → model → eval)  
   [![Repo](https://img.shields.io/badge/Repo-coffee--sales--forecast-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitmaann/coffee-sales-forecast)
   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- **🗄️ tiny-kv** — minimal distributed key–value store (primary/replica + quorum + recovery)  
+- **🗄️ Tiny kv** — minimal distributed key–value store (primary/replica + quorum + recovery)  
   [![Repo](https://img.shields.io/badge/Repo-tiny--kv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitmaann/tiny-kv)
   ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0B1320?style=flat-square&logo=databricks&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
