@@ -27,26 +27,32 @@ Hi, I’m Harshit, a Computer Science student in Canada building **cloud-ready**
 ## ⭐ Featured Projects
 > If you have 30 seconds, check these out:
 
-- **🛠️ App Support Lab** — simulated production Application Support lab (logging + metrics + monitoring + incident runbooks)  
-  **What you’ll see:** 503 incident drills → log triage → metrics validation → recovery  
-  [![Repo](https://img.shields.io/badge/Repo-app--support--lab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitmaann/app-support-lab)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-  ![Monitoring](https://img.shields.io/badge/Monitoring-0B1320?style=flat-square)
+- **🛠️ App Support Lab**: mini production-style Application Support lab (FastAPI + logs + Prometheus metrics + alerting)
+  
+  **What it is:** a small service that simulates a casino-style upstream dependency (GMS-like) so you can practice incident response.  
+  **How it works:** toggle failure modes (normal / slow / upstream down) → reproduce symptoms → triage via logs + `/metrics` → validate recovery.  
+  **Can you run it?** Yes. It runs locally with `uvicorn`, includes a smoke test script, and a log monitor that prints `[OK]` / `[ALERT]`.
 
-- **☕ Coffee Sales Forecast** — end-to-end time series forecasting pipeline (features → model → eval)  
+  [![Repo](https://img.shields.io/badge/Repo-casino--appsupport-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitmaann/casino-appsupport)
+  [![ci](https://github.com/harshitmaann/casino-appsupport/actions/workflows/ci.yml/badge.svg)](https://github.com/harshitmaann/casino-appsupport/actions/workflows/ci.yml)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+  ![Prometheus](https://img.shields.io/badge/Prometheus%20Metrics-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+  ![Monitoring](https://img.shields.io/badge/Log%20Monitor-0B1320?style=flat-square)
+
+- **☕ Coffee Sales Forecast**: end-to-end time series forecasting pipeline (features → model → eval)  
   [![Repo](https://img.shields.io/badge/Repo-coffee--sales--forecast-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitmaann/coffee-sales-forecast)
   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- **🗄️ Tiny kv** — minimal distributed key–value store (primary/replica + quorum + recovery)  
+- **🗄️ Tiny kv**: minimal distributed key–value store (primary/replica + quorum + recovery)  
   [![Repo](https://img.shields.io/badge/Repo-tiny--kv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitmaann/tiny-kv)
   ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0B1320?style=flat-square&logo=databricks&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 <details>
-  <summary><b>🚀 What I’m building next (Cloud/DevOps + Security)</b></summary>
+ <summary><b>🚀 What I’m building next (Application Support + SRE Foundations)</b></summary>
 
+- **runbooks-oncall-drills**: incident runbooks + realistic outage simulations (5xx, latency, dependency failures) + postmortems + action items
 - **cloud-deploy-fastapi**: FastAPI + Postgres + Docker + GitHub Actions + Terraform (AWS/Azure)
 - **secure-api-gateway**: JWT + RBAC + rate limiting + audit logs + threat model
 - **data-pipeline-dashboard**: ETL → warehouse → dashboard + scheduled runs
