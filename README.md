@@ -1,14 +1,16 @@
 <!-- Profile README: harshitmaann -->
 
 ## 💫 About Me
-Hi, I’m Harshit, a Computer Science student in Canada building **cloud-ready**, **security-minded** systems and **data-driven** applications.
 
-- 🧱 **I build:** backend APIs, automation pipelines, and dashboards that are reliable, scalable, and easy to maintain
-- ☁️ **Cloud:** deploying and operating services on **AWS/Azure** (CI/CD, containers, monitoring basics)
-- 🔐 **Security:** secure-by-design practices (**auth**, input validation, least privilege, logging)
-- 📊 **Data:** **Python + SQL** for analytics, forecasting, and decision-ready insights
+Hi, I'm Harshit, a **Computer Science graduate** in Canada building **cloud-ready**, **production-focused** systems and **data-driven** solutions.
 
-🎯 Actively targeting: **Applications Support** / **Production Support** / **Junior SRE / Ops** roles.
+- ☁️ **Cloud & DevOps:** deploying services with **Docker**, **CI/CD** (GitHub Actions), **Prometheus** monitoring, and infrastructure that's reproducible and maintainable
+- 🔧 **Production Operations:** hands-on experience supporting **24/7 systems**, incident triage, **Linux** troubleshooting, **SQL Server** support, and runbook-driven workflows
+- 📊 **Data & Analytics:** **Python + SQL** for forecasting pipelines, ETL workflows, and turning raw data into actionable business insights
+- 🛠️ **I build:** backend **APIs** (FastAPI, Flask), automation scripts (**Bash**, Python), monitoring dashboards, and systems designed to fail gracefully
+- 🔐 **Security-minded:** least-privilege access, input validation, structured logging, and secure-by-design practices
+
+🎯 **Actively seeking:** Cloud Engineering · DevOps · Site Reliability Engineering (SRE) · Application Support · Data Engineering roles
 
 ---
 
